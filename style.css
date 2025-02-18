@@ -4,6 +4,19 @@
 }
 .top-para{
     font-family: roboto regular;
-    font-size: 08px;
+    font-size: 11px;
 
+}
+.nav-anchor{
+    padding-right:40px ;
+    text-align: center;
+    text-decoration: none;
+    font-family: roboto regular;
+    
+}
+.nav-button{
+    padding: 20px 20px;
+    font-family: roboto regular;
+    font-size: 16px;
+    
 }

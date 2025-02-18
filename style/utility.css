@@ -3,6 +3,43 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+                                                /* <<<<BG-COLOR START>>>>> */
+
 .bg-light-grey{
     background-color: #e6e6e6;
+}
+.bg-purple{
+    background-color: #701e7d;
+}
+
+
+                                                /* <<<<BG-COLOR END>>>> */
+
+
+                                               /* <<<<COLOR START>>>> */     
+
+.color-black{
+    color: #343434;
+}
+.color-yellow{
+    color: #ffd400;
+}
+.color-white{
+    color: #ffffff;
+}
+
+
+
+                                            /* <<<<COLOR END>>>> */
+.border-right{
+    border-right: 1px solid #343434;
+}
+.border-left{
+    border-left: 1px solid #343434;
+}
+
+.padding{
+    padding: 45px 30px;
+
 }
