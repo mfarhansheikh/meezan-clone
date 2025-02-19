@@ -2,6 +2,10 @@
     font-family: roboto regular;
     src: url(font/roboto/Roboto-Light.ttf);
 }
+@font-face {
+    font-family: roboto-bold;
+    src: url(font/roboto/Roboto-Bold.ttf);
+}
 .top-para{
     font-family: roboto regular;
     font-size: 11px;
@@ -31,11 +35,31 @@
     color: #701e7d ;
     margin-top: 10px;
 }
-.card-container{
-    display: flex;
-    justify-content: space-around;
-    gap: 5;
-    flex-wrap: wrap;
-    align-items: center;
 
+.card-heading{
+    padding-top: 20px;
+}
+.card-para{
+    font-family: roboto regular;
+    font-size: 15px;
+    color: #343434;
+    padding-top: 10px;
+
+}
+.card-img:hover{
+    scale: calc(1.05);
+
+}
+.card-img-4{
+    padding-bottom: 20px;
+}
+.ways-heading{
+    font-family: roboto-bold;
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+}
+.ways-para{
+    font-family: roboto regular;
+    font-size: 13px;
 }
