@@ -35,12 +35,16 @@
 
 
                                             /* <<<<COLOR END>>>> */
+
+
+                                            /* <<<BORDER START>>> */
 .border-right{
     border-right: 1px solid #343434;
 }
 .border-left{
     border-left: 1px solid #343434;
 }
+                                             /* <<<BORDER START>>> */
 
 .padding{
     padding: 45px 30px;
