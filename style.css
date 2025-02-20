@@ -79,3 +79,26 @@
 .service-container{
     padding-top: 30px;
 }
+.heading-2{
+    padding-top: 20px;
+    border-right: 1px solid lightsteelblue;
+    padding-right: 100px;
+    
+    font-size: 22px;
+    font-family: roboto regular;
+}
+.heading-3{
+    padding-top: 20px;
+    padding-right: 30px;
+    font-size: 22px;
+    font-family: roboto regular;
+}
+.footer{
+    font-family: roboto regular;
+    font-size: 14px;
+    color: black;
+}
+.child-1-heading{
+    font-size: 15px;
+    font-weight: bold;
+}
