@@ -53,6 +53,9 @@
 .card-img-4{
     padding-bottom: 20px;
 }
+.ways-to-bank-heading{
+    padding-top: 30px;
+}
 .ways-heading{
     font-family: roboto-bold;
     font-size: 19px;
@@ -62,4 +65,17 @@
 .ways-para{
     font-family: roboto regular;
     font-size: 13px;
+}
+.way-img:hover{
+    background-color: #ffd400;
+
+}
+.Award-heading{
+    padding-top: 30px;
+}
+.award-img{
+    padding-top: 20px;
+}
+.service-container{
+    padding-top: 30px;
 }
